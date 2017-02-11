@@ -15,7 +15,7 @@ Glyphicons Halflings
 
 ## License
 
-Copyright (c) 2016 Nick Harbaugh
+Copyright (c) 2017 Nick Harbaugh
 
 Licensed under the MIT license
 
